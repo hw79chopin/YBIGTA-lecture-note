@@ -1,6 +1,14 @@
-README
+# `YBIGTA 강의자료 collection`
+`#Feature-Engineering` `#Flask` `#AWS` `#Machine-learning` `#git` `#github`
 
-YBIGTA에서 활동하면서 내가 강의한 자료들 모아두는 다  
-모은 곳입니디~
+# 1. 소개
+- YBIGTA에서 활동하면서 내가 강의하면서 만들어둔 강의자료들 모아둔 Repo입니다.
+- 크게
+> ### Feature Engineering
 
-여기도 이제 슬슬 마무리 시켜서 정리합세~
+> ### Flask, AWS
+
+> ### Machine Learning (Basic, Ensemble)
+
+> ### Git, Github
+- 이렇게 있습니다.
