@@ -1,7 +1,8 @@
-# `YBIGTA 강의자료 collection`
+<h1 align="center"><strong>🔎 YBIGTA 강의자료 collection</strong></h3>
+
 `#Feature-Engineering` `#Flask` `#AWS` `#Machine-learning` `#git` `#github`
 
-# 1. 소개
+# 🚦 1. 소개
 - YBIGTA에서 활동하면서 내가 강의하면서 만들어둔 강의자료들 모아둔 Repo입니다.
 - 크게
 > ### Feature Engineering
@@ -12,3 +13,5 @@
 
 > ### Git, Github
 - 이렇게 있습니다.
+
+<h3 align="center"><strong>끗! 🙌</strong></h3>
